@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSPM-WFP01-03-CTDPFK000-recovered_wfp-ctdpf_ckl_wfp_instrument_recovered
-last_request: '2021-05-04T21:21:15.517587Z'
+last_request: '2021-07-19T18:35:30.395190Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-03-CTDPFK000-recovered_wfp-ctdpf_ckl_wfp_instrument_recovered/main/history/response.json
-status: success
+status: pending
