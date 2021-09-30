@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-03-CTDPFK000-recovered_wfp-ctdpf_ckl_wfp_instrument_recovered
 data_stream: CE09OSPM-WFP01-03-CTDPFK000-recovered_wfp-ctdpf_ckl_wfp_instrument_recovered
 end_date: '2021-03-26T21:54:59.000Z'
-last_updated: '2021-09-30T13:50:58.493022Z'
+last_updated: '2021-09-30T15:18:07.298793'
 start_date: '2014-04-19T01:00:10.000Z'
-status: pending
+status: success
